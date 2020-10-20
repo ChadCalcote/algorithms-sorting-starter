@@ -1,0 +1,27 @@
+{
+  "name": "algorithms-sorting-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChadCalcote/algorithms-sorting-starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChadCalcote/algorithms-sorting-starter/issues"
+  },
+  "homepage": "https://github.com/ChadCalcote/algorithms-sorting-starter#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.0"
+  }
+}
